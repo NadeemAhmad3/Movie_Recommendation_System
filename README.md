@@ -62,7 +62,7 @@ A **sophisticated machine learning project** that builds and evaluates multiple 
 **1. Clone the Repository** 
 ```bash
 git clone https://github.com/NadeemAhmad3/Movie_Recommendation_System.git
-cd your-repo-name
+cd Movie_Recommendation_System
 ```
 **2. Create a Virtual Environment (Recommended)**
 ```bash
